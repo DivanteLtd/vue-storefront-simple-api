@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/
+.vscode/
+.idea/
+desktop.ini
+npm-debug.log
+yarn-error.log

@@ -1,0 +1,23 @@
+{
+  "name": "vue-storefront-mockserver",
+  "version": "0.1.0",
+  "description": "A mockserver for vue-storefront",
+  "main": "index.js",
+  "repository": "git@github.com:kacperknapik/vue-storefront-mockserver.git",
+  "author": "Kacper Knapik <hello@kacperknapik.pl>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10.14.1"
+  },
+  "scripts": {
+    "start": "json-server --config=config.json ./db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "devDependencies": {
+    "faker": "^4.1.0",
+    "typescript": "^3.2.4"
+  },
+  "private": false
+}
