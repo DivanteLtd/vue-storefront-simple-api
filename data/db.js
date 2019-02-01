@@ -1,3 +1,5 @@
 module.exports = {
-  products: require('./products.json')
+  product: require('./products.json'),
+  category: require('./categories.json'),
+  attribute: require('./attributes.json')
 }
