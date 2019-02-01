@@ -30,6 +30,20 @@
     "category_ids": [
       "26"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt06-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": null
+      },
+      {
+        "image": "/w/t/wt06-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": null
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -322,6 +336,20 @@
       "30",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws08-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": null
+      },
+      {
+        "image": "/w/s/ws08-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": null
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -613,6 +641,26 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh12-green_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh12-green_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh12-green_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -901,6 +949,20 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh11-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh11-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -1035,6 +1097,26 @@
       "28",
       "36",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh10-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh10-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh10-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -1171,6 +1253,26 @@
     ],
     "category_ids": [
       "28"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh04-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh04-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh04-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -1458,6 +1560,26 @@
     "category_ids": [
       "28"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh09-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh09-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh09-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -1592,6 +1714,20 @@
       "28",
       "8",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh07-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh07-black_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -1730,6 +1866,20 @@
       "28",
       "30",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh05-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh05-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -2020,6 +2170,20 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh08-purple_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh08-purple_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -2135,6 +2299,26 @@
     ],
     "category_ids": [
       "28"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh06-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh06-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh06-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -2274,6 +2458,26 @@
       "8",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh03-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh03-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh03-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -2564,6 +2768,20 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp13-orange_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp13-orange_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -2698,6 +2916,20 @@
       "27",
       "32",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp11-green_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp11-green_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -2834,6 +3066,20 @@
       "32",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp12-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp12-gray_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -2972,6 +3218,20 @@
       "28",
       "30",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh02-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh02-gray_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -3265,6 +3525,20 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/wsh01-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/wsh01-black_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -3554,6 +3828,26 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp05-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp05-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp05-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -3689,6 +3983,32 @@
       "32",
       "34",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp06-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp06-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp06-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp06-black_outfit.jpg",
+        "pos": 4,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -3826,6 +4146,26 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp07-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp07-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp07-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -3962,6 +4302,26 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp10-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp10-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp10-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -4096,6 +4456,32 @@
       "27",
       "32",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp09-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp09-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp09-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp09-black_outfit.jpg",
+        "pos": 4,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -4232,6 +4618,20 @@
       "32",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp08-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp08-black_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -4367,6 +4767,26 @@
       "32",
       "8",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp03-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp03-blue_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp03-blue_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -4506,6 +4926,26 @@
       "30",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt08-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt08-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt08-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -4795,6 +5235,32 @@
       "32",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp04-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp04-blue_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp04-blue_alternate.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp04-blue_back.jpg",
+        "pos": 4,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -4931,6 +5397,20 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp01-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp01-gray_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -5066,6 +5546,20 @@
       "32",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/p/wp02-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/p/wp02-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -5205,6 +5699,20 @@
       "30",
       "34",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt09-white_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt09-white_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -5497,6 +6005,26 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt07-green_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt07-green_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt07-green_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -5788,6 +6316,26 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt05-purple_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt05-purple_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt05-purple_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -6078,6 +6626,20 @@
       "26",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt04-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt04-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -6371,6 +6933,26 @@
       "34",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt03-red_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt03-red_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt03-red_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -6660,6 +7242,20 @@
     "category_ids": [
       "26"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt02-orange_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt02-orange_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -6948,6 +7544,32 @@
     ],
     "category_ids": [
       "26"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/b/wb04-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb04-blue-0.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb04-blue_alt1.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb04-blue_back.jpg",
+        "pos": 4,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -7240,6 +7862,20 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/t/wt01-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/t/wt01-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -7528,6 +8164,20 @@
     ],
     "category_ids": [
       "26"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/b/wb05-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb05-black_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -7821,6 +8471,26 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/b/wb03-green_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb03-green_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb03-green_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -8109,6 +8779,26 @@
     ],
     "category_ids": [
       "26"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/b/wb02-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb02-blue_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb02-blue_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -8402,6 +9092,26 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/b/wb01-gray_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb01-gray_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/b/wb01-gray_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -8694,6 +9404,20 @@
       "35",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws12-orange_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws12-orange_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -8984,6 +9708,26 @@
       "25",
       "33",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws05-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws05-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws05-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -9276,6 +10020,20 @@
       "33",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws01-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws01-black_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -9567,6 +10325,20 @@
       "33",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws10-red_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws10-red_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -9861,6 +10633,20 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws09-blue_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws09-blue_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -10153,6 +10939,20 @@
       "30",
       "34",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws11-yellow_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws11-yellow_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -10447,6 +11247,20 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws06-purple_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws06-purple_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -10739,6 +11553,26 @@
       "8",
       "34",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws07-black_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws07-black_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws07-black_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
@@ -11033,6 +11867,20 @@
       "36",
       "2"
     ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws04-green_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws04-green_back.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      }
+    ],
     "configurable_children": [
       {
         "type_id": null,
@@ -11324,6 +12172,26 @@
       "33",
       "35",
       "2"
+    ],
+    "media_gallery": [
+      {
+        "image": "/w/s/ws03-red_main.jpg",
+        "pos": 1,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws03-red_alt1.jpg",
+        "pos": 2,
+        "typ": "image",
+        "lab": ""
+      },
+      {
+        "image": "/w/s/ws03-red_back.jpg",
+        "pos": 3,
+        "typ": "image",
+        "lab": ""
+      }
     ],
     "configurable_children": [
       {
