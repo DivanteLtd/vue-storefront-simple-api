@@ -10,5 +10,17 @@ const db = low( new Memory(null, { defaultValue: state }))
 module.exports = {
   getState: () => {
     return db.getState()
+  },
+  executeQuery: (query) => {
+    const util = require('util')
+
+    console.log(util.inspect(query, false, null, true /* enable colors */))
+    return {
+      items: [],
+      total: 0,
+      start: 0,
+      perPage: 0,
+      aggregations: []
+    }
   }
 }
