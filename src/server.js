@@ -2,14 +2,11 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const config = require('config')
 const cors = require('cors')
-
+const path = require('path')
 const server = express()
-const low = require('lowdb')
-//const FileSync = require('lowdb/adapters/FileSync')
-//const db = low(new FileSync('db.js'))
 
-const Memory = require('lowdb/adapters/Memory')
-const db = low( new Memory(null, { defaultValue: require('../data/db') }))
+let format = 'json'
+const db = require(path.join((process.env.API_DATA_DIR ? process.env.API_DATA_DIR : process.cwd()), 'data', format, 'db.js'))
 
 server.use(bodyParser.json())
 server.use(cors({
@@ -19,7 +16,7 @@ server.use(cors({
 server.get('/db', (req, res) => {
   res.jsonp(db.getState())
 })
-server.use(require('./routes/catalog')(config, db))
+server.use(require(path.join(__dirname, 'routes','catalog'))(config, db))
 
 const port = process.env.PORT || config.server.port
 const host = process.env.HOST || config.server.host
