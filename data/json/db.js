@@ -11,10 +11,32 @@ module.exports = {
   getState: () => {
     return db.getState()
   },
-  executeQuery: (query) => {
+  executeQuery: (context, query) => {
     const util = require('util')
+    
+    const standardOperators = ['ne', 'eq']
+    const rangeOperators = ['gt', 'lt', 'gte', 'lte', 'moreq', 'from', 'to']
 
+    let chain = db.get(context.entity)
     console.log(util.inspect(query, false, null, true /* enable colors */))
+ 
+    query.must.every(queryItem => {
+      if (queryItem.hasOwnProperty('match')) {
+        chain = chain.filter(element => {
+          const elementMatched = false
+          const elementValue = _.get(element, path)
+          standardOperators.every(operator => {
+            if (queryItem.hasOwnProperty(operator)) {
+              elementMatched = _[operator](elementValue, queryItem[operator]) // execute operator
+              console.log(operator, elementValue, elementMatched)
+            }
+          })
+        })
+      } else if (queryItem.hasOwnProperty('range')) {
+        
+      }
+
+    })
     return {
       items: [],
       total: 0,

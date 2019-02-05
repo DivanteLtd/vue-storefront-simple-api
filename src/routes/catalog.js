@@ -14,7 +14,7 @@ module.exports = (config, db) => {
         }
     
        console.log('Simple API request', req.params, requestBody)
-       res.jsonp(db.executeQuery(requestBody))
+       res.jsonp(db.executeQuery(req.params, requestBody))
     }
     router.post('/api/catalog/:db/:entity', queryHandler)
     router.get('/api/catalog/:db/:entity', queryHandler)
